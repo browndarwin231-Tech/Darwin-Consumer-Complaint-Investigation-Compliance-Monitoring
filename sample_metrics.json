@@ -1,0 +1,14 @@
+{
+  "total": 30,
+  "resolved": 19,
+  "open": 11,
+  "sla_breaches": 6,
+  "by_category": {
+    "Account information dispute": 6,
+    "Communication concern": 5,
+    "Payment posting delay": 5,
+    "Documentation request": 5,
+    "Billing error": 5,
+    "Unauthorized contact": 4
+  }
+}

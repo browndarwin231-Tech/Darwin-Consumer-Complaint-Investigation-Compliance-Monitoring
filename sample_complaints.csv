@@ -1,0 +1,31 @@
+Case ID,Received Date,Complaint Category,Channel,Priority,Owner,Status,Response Due,Resolved Date,Root Cause,Corrective Action,SLA Breach,Notes
+CASE-001,2026-09-03,Account information dispute,Mail,High,Assigned,Resolved,2026-09-06,2026-09-05,Workflow gap,Correct record and confirm response,No,Fictional training case 1; no personal data
+CASE-002,2026-09-05,Communication concern,Web form,Medium,Assigned,In review,2026-09-10,,Pending review,Review procedure and follow up,Pending,Fictional training case 2; no personal data
+CASE-003,2026-09-07,Payment posting delay,Phone,Medium,Assigned,In review,2026-09-12,,Pending review,Review procedure and follow up,Pending,Fictional training case 3; no personal data
+CASE-004,2026-09-09,Documentation request,Email,Low,Assigned,Open,2026-09-16,,Pending review,Review procedure and follow up,Pending,Fictional training case 4; no personal data
+CASE-005,2026-09-12,Billing error,Mail,High,Assigned,Resolved,2026-09-15,2026-09-18,Manual entry error,Correct record and confirm response,Yes,Fictional training case 5; no personal data
+CASE-006,2026-09-14,Account information dispute,Web form,High,Assigned,Resolved,2026-09-17,2026-09-21,Workflow gap,Correct record and confirm response,Yes,Fictional training case 6; no personal data
+CASE-007,2026-09-16,Communication concern,Phone,Medium,Assigned,Resolved,2026-09-21,2026-09-17,Missing verification,Review procedure and follow up,No,Fictional training case 7; no personal data
+CASE-008,2026-09-18,Unauthorized contact,Email,Medium,Assigned,Resolved,2026-09-23,2026-09-20,Timing/processing delay,Review procedure and follow up,No,Fictional training case 8; no personal data
+CASE-009,2026-09-20,Documentation request,Mail,Low,Assigned,Resolved,2026-09-27,2026-09-23,Unconfirmed,Review procedure and follow up,No,Fictional training case 9; no personal data
+CASE-010,2026-09-23,Billing error,Web form,High,Assigned,Resolved,2026-09-26,2026-09-27,Manual entry error,Correct record and confirm response,Yes,Fictional training case 10; no personal data
+CASE-011,2026-09-25,Account information dispute,Phone,Medium,Assigned,In review,2026-09-30,,Pending review,Correct record and confirm response,Pending,Fictional training case 11; no personal data
+CASE-012,2026-09-27,Payment posting delay,Email,Medium,Assigned,In review,2026-10-02,,Pending review,Review procedure and follow up,Pending,Fictional training case 12; no personal data
+CASE-013,2026-09-29,Unauthorized contact,Mail,Medium,Assigned,Open,2026-10-04,,Pending review,Review procedure and follow up,Pending,Fictional training case 13; no personal data
+CASE-014,2026-10-01,Documentation request,Web form,Low,Assigned,Resolved,2026-10-08,2026-10-02,Unconfirmed,Review procedure and follow up,No,Fictional training case 14; no personal data
+CASE-015,2026-10-04,Billing error,Phone,High,Assigned,Resolved,2026-10-07,2026-10-06,Manual entry error,Correct record and confirm response,No,Fictional training case 15; no personal data
+CASE-016,2026-10-06,Communication concern,Email,Medium,Assigned,Resolved,2026-10-11,2026-10-09,Workflow gap,Review procedure and follow up,No,Fictional training case 16; no personal data
+CASE-017,2026-10-08,Payment posting delay,Mail,Medium,Assigned,Resolved,2026-10-13,2026-10-12,Missing verification,Review procedure and follow up,No,Fictional training case 17; no personal data
+CASE-018,2026-10-10,Unauthorized contact,Web form,Medium,Assigned,Resolved,2026-10-15,2026-10-15,Communication gap,Review procedure and follow up,No,Fictional training case 18; no personal data
+CASE-019,2026-10-12,Documentation request,Phone,Low,Assigned,Resolved,2026-10-19,2026-10-18,Unconfirmed,Review procedure and follow up,No,Fictional training case 19; no personal data
+CASE-020,2026-10-15,Account information dispute,Email,High,Assigned,In review,2026-10-18,,Pending review,Correct record and confirm response,Pending,Fictional training case 20; no personal data
+CASE-021,2026-10-17,Communication concern,Mail,Medium,Assigned,In review,2026-10-22,,Pending review,Review procedure and follow up,Pending,Fictional training case 21; no personal data
+CASE-022,2026-10-19,Payment posting delay,Web form,Medium,Assigned,Open,2026-10-24,,Pending review,Review procedure and follow up,Pending,Fictional training case 22; no personal data
+CASE-023,2026-10-21,Unauthorized contact,Phone,Low,Assigned,Resolved,2026-10-28,2026-10-24,Communication gap,Review procedure and follow up,No,Fictional training case 23; no personal data
+CASE-024,2026-10-23,Billing error,Email,Low,Assigned,Resolved,2026-10-30,2026-10-27,Unconfirmed,Correct record and confirm response,No,Fictional training case 24; no personal data
+CASE-025,2026-10-26,Account information dispute,Mail,High,Assigned,Resolved,2026-10-29,2026-10-31,Manual entry error,Correct record and confirm response,Yes,Fictional training case 25; no personal data
+CASE-026,2026-10-28,Communication concern,Web form,Medium,Assigned,Resolved,2026-11-02,2026-11-03,Workflow gap,Review procedure and follow up,Yes,Fictional training case 26; no personal data
+CASE-027,2026-09-01,Payment posting delay,Phone,Medium,Assigned,Resolved,2026-09-06,2026-09-08,Timing/processing delay,Review procedure and follow up,Yes,Fictional training case 27; no personal data
+CASE-028,2026-09-03,Documentation request,Email,Low,Assigned,Resolved,2026-09-10,2026-09-04,Communication gap,Review procedure and follow up,No,Fictional training case 28; no personal data
+CASE-029,2026-09-05,Billing error,Mail,High,Assigned,In review,2026-09-08,,Pending review,Correct record and confirm response,Pending,Fictional training case 29; no personal data
+CASE-030,2026-09-08,Account information dispute,Web form,High,Assigned,In review,2026-09-11,,Pending review,Correct record and confirm response,Pending,Fictional training case 30; no personal data
